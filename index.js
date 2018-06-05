@@ -16,9 +16,9 @@ function inc(number){
 function dec(number){
   return --number
 }
-function makeInt(string){
-  parseInt(string, 2)
+function makeInt(a){
+  parseInt(a, 10)
 }
-function preserveDecimal(string){
-  parseFloat(string)
+function preserveDecimal(b){
+  parseFloat(b)
 }
