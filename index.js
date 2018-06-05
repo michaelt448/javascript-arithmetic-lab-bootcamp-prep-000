@@ -22,5 +22,5 @@ function makeInt(a){
 function preserveDecimal(b){
   return parseFloat(b);
 }
-console.log(parseInt("3"))
+
 
