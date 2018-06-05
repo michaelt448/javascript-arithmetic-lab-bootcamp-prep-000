@@ -22,3 +22,6 @@ function makeInt(a){
 function preserveDecimal(b){
   parseFloat(b);
 }
+function print(a){
+  console.log(makeInt("3"))
+}
