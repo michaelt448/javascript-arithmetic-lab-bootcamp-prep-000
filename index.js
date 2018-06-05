@@ -7,6 +7,9 @@ function subtract(firstNum,secondNum){
 function multiply(firstNum,secondNum){
   return secondNum*firstNum
 }
+function divide(nominator,denominator){
+  return nominator/denominator
+}
 function inc(number){
   return ++number
 }
