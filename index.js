@@ -2,10 +2,10 @@ function add(firstNum, secondNum){
   return firstNum+secondNum
 }
 function subtract(firstNum,secondNum){
-  return secondNum - firstNum
+  return firstNum - secondNum
 }
 function multiply(firstNum,secondNum){
-  return firstNum*secondNum
+  return secondNum*firstNum
 }
 function inc(number){
   return ++number
