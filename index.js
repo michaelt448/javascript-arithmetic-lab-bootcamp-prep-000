@@ -17,10 +17,10 @@ function dec(number){
   return --number
 }
 function makeInt(a){
-  parseInt(a, 10);
+  return parseInt(a, 10);
 }
 function preserveDecimal(b){
-  parseFloat(b);
+  return parseFloat(b);
 }
 console.log(parseInt("3"))
 
